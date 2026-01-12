@@ -1,0 +1,7 @@
+{
+  "name": "LBJ-Growth-AI",
+  "description": "A refined Marketing & Growth Intelligence system that acts as a digital CMO to transform projects and expertise into premium brand assets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
